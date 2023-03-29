@@ -1,0 +1,27 @@
+{
+  "name": "appteste",
+  "version": "1.0.0",
+  "description": "Aplicativo que não serve para nada.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "apptestepovojava"
+  },
+  "keywords": [
+    "não",
+    "serve",
+    "para",
+    "nada",
+    "javascript",
+    "node"
+  ],
+  "author": "André Luferat",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}

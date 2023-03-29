@@ -1,0 +1,26 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "Joca da Silva",
+            "email": "joca@silva.com"
+        },
+        {
+            "id": "2",
+            "name": "Maricleuza Sirineuza",
+            "email": "mari@cleuza.com"
+        }
+    ],
+    "comments": [
+        {
+            "id": "1",
+            "user": "1",
+            "text": "Não estou entendendo nada disso."
+        },
+        {
+            "id": "2",
+            "user": "2",
+            "text": "Eu tamém num tendi nada!"
+        }
+    ]
+}
